@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laporan 2 Pemrograman Web</title>
+
+    <style>
+        /* Mengatur style untuk seluruh halaman */
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            margin: 20px;
+            font-size: 18px;
+        }
+
+        /* Judul laporan */
+        h1 {
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        /* Naya Aghista */
+        .nama {
+            background-color: blue; /* Warna biru untuk background */
+            color: yellow;           /* Warna kuning untuk teks */
+            padding: 10px;
+            font-size: 32px;
+            font-weight: bold;
+        }
+
+        /* 20233207 */
+        .nim {
+            color: blue;             /* Warna teks biru */
+            font-size: 28px;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+
+        /* Paragraf biasa */
+        p {
+            text-align: center; /* Supaya paragraf rata tengah */
+            margin: 20px 0;
+        }
+
+        /* Menandai kata 'ipsum' */
+        .highlight-blue {
+            background-color: blue;
+            color: yellow;
+            font-style: italic;
+            padding: 2px 5px;
+        }
+
+        /* Menandai kata 'amet' */
+        .highlight-yellow {
+            background-color: yellow;
+            font-style: italic;
+            padding: 2px 5px;
+        }
+
+        /* Link menuju YouTube */
+        .link-yutub {
+            font-size: 24px;
+            font-weight: bold;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Ini adalah laporan ke 2 dari matakuliah pemrograman web</h1>
+
+    <!-- Bagian Nama -->
+    <div class="nama">Naya Aghista</div>
+
+    <!-- Bagian NIM -->
+    <div class="nim">202332075</div>
+
+    <!-- Paragraf 1 -->
+    <p>
+        Lorem <span class="highlight-blue">ipsum</span> dolor sit amet consectetur adipisicing elit. 
+        Sed quod fuga magni ipsa ipsam atque? Sed vero, quasi nemo illo ea maiores vel itaque deserunt 
+        modi unde libero sunt debitis.
+    </p>
+
+    <!-- Paragraf 2 -->
+    <p>
+        Lorem ipsum dolor sit <span class="highlight-yellow">amet</span> consectetur adipisicing elit. 
+        Suscipit est mollitia assumenda cum quisquam perferendis minima, unde fugit aspernatur itaque, 
+        doloribus excepturi officia voluptatum adipisci alias provident error ipsa expedita.
+    </p>
+
+    <!-- Link YouTube -->
+    <div class="link-yutub">Link menuju yutub</div>
+
+</body>
+</html>
