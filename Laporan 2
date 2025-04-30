@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -92,5 +92,9 @@
     <!-- Link YouTube -->
     <div class="link-yutub">Link menuju yutub</div>
 
+    <!-- Link ke Youtube -->
+    <a href="https://www.youtube.com/@nayaaghista9244" target="_blank">Link menuju yutub</a>
+
 </body>
 </html>
+
